@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=twinkling&height=230&text=2024%20한국스마트정보교육원%20SW경진대회%20&desc=Team.%20C-Lab&fontSize=40&fontAlign=50&fontAlignY=33&descSize=20&descAlign=50&descAlignY=55)  
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslo-saeng&count_bg=%23F2E6D6&title_bg=%23FCBA69&icon=&icon_color=%23FCBA69&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
  **아이디어 배경** <br/>
 한국이 초고령화 사회에 접어들면서 날이 갈수록 노인을 위한 의료 수요가 증가할 것으로 예상됩니다. 병원에 방문하여 의사에게 진료 받는 형태는 거동이 힘든 노인에게는 매우 불편하다고 생각하였고 원격 의료 서비스가 존재하나 노인 스스로 서비스를 신청하고 온라인 진료를 받을 수 없었습니다.
