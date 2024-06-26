@@ -3,9 +3,8 @@
 - **사용 기술**  
   
 # Skills
-
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> <img src="https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black">
 # Members
-
 |<img src="https://avatars.githubusercontent.com/u/103233513?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/128335727?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/138277645?v=4" width="128" />| 
 |:---------:|:---------:|:---------:|
 |[이한음](https://github.com/LeeHanEum)|[김정은](https://github.com/younghak9905)|[최수인](https://github.com/sooinice)|
