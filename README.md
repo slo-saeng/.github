@@ -46,15 +46,15 @@
 
 ## super
 
-|<img src = "https://github.com/slo-saeng/.github/assets/138277645/02f5996f-8cb3-44ab-a965-5011450e06b8" width = "100%">|
-|:---------:|
-|슬로생 서비스 이용 기관 확인 화면|
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/41e0a4ef-fce4-4a95-9581-b3b80d3c2e46" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/02f5996f-8cb3-44ab-a965-5011450e06b8" width = "100%">|
+|:---------:|:---------:|
+|마스터 계정 메인 화면|슬로생 서비스 이용 기관 확인 화면|
 
 ## master
 
-|<img src = "https://github.com/slo-saeng/.github/assets/138277645/41e0a4ef-fce4-4a95-9581-b3b80d3c2e46" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/e3fef56e-7d20-457b-afb1-0f8740e81618" width = "100%">|
-|:---------:|:---------:|
-|마스터 계정 메인 화면|의료진 승인 화면(병원관계자)|
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/e3fef56e-7d20-457b-afb1-0f8740e81618" width = "100%">|
+|:---------:|
+|의료진 승인 화면(병원관계자)|
 
 ## doctor
 
