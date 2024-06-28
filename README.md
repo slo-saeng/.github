@@ -19,11 +19,37 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <br/> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> <img src="https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black">
 # Members
 |<img src="https://avatars.githubusercontent.com/u/103233513?v=4" width="128" />|<img src="htt면|
+
+## login
+
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/606f0fa2-001d-490d-a2a6-8297ecb2c09a" width = "100%">|
+|:---------:|
+|로그인 화면|
+
+## sign up
+
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/10802873-504c-4303-88b9-4216fa2d38bb" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/c6234999-71e2-4905-b67a-fe2bc57d902b" width = "100%">|
+|:---------:|:---------:|
+|회원가입 화면|회원가입 화면 상|
+
+## main
+
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/a5fb212e-c156-4384-b41c-da21a038c287" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/61cf3064-45ee-4a0e-add5-7327abe23009" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/cef78a00-461b-41cb-a4e9-b9ceecbdda0c" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/83031526-9fc6-44c5-a50d-139b652d1fe1" width = "100%">|
+|:---------:|:---------:|:---------:|:---------:|
+|메인 화면|긴급 도움 요청 화면|주변 의료기관 확인 화면|고령자 등록 화면|
+
+## super
+
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/02f5996f-8cb3-44ab-a965-5011450e06b8" width = "100%">|
+|:---------:|
+|슬로생 서비스 이용 기관 확인 화면|
+
 ## master
 
 |<img src = "https://github.com/slo-saeng/.github/assets/138277645/41e0a4ef-fce4-4a95-9581-b3b80d3c2e46" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/e3fef56e-7d20-457b-afb1-0f8740e81618" width = "100%">|
 |:---------:|:---------:|
-|마스터 계정 메인 화|의료진 승인 화면(병원관계자)|
+|마스터 계정 메인 화면|의료진 승인 화면(병원관계자)|
+
 ## doctor
 
 |<img src = "https://github.com/slo-saeng/.github/assets/138277645/9bfac341-5049-4b52-a1e6-3cda7d01b342" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/d8b7fb1a-b356-490e-b667-ef3664f26a7d" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/eb1efe88-48af-44e2-990e-2cee96623f0f" width = "100%">|
