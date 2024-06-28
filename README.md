@@ -26,26 +26,37 @@
 # Preview
 [FIGMA 기획 보기](https://www.figma.com/design/u3EUyaeCYhljXo5sQ35BQW/2024-%ED%95%9C%EA%B5%AD%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%A0%95%EB%B3%B4%EA%B5%90%EC%9C%A1%EC%9B%90-SW-%EA%B0%9C%EB%B0%9C?node-id=108-3&t=dQb7qfVGx4x01ann-0)
 ## Login
-|| 
+
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/dba95690-0f07-44f8-9e67-7b0c7c7eb633" width = "100%">| 
 |:---------:|
 |로그인 화면|
 ## sign-up
-||
-|:---------:|
-|회원가입 화면|
+
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/bc7fb07a-97c9-4a92-953e-e2d4682cf019" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/e40e7232-289e-4cc7-900a-42805db1f622" width = "100%">|
+|:---------:|:---------:|
+|회원가입 화면|회원가입 화면 상세|
 ## main
-||
-|:---------:|
-|메인 화면|
+
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/6b7933d8-717b-4fe3-972b-f5ab79913474" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/dc91237a-6795-463e-9f22-3cf629ba8f0b" width = "100%"> |<img src = "https://github.com/slo-saeng/.github/assets/138277645/79d96924-ab10-425f-b612-527d447b5b16" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/71b87dfa-1d80-4c8c-9b5c-f9a88b981c3a" width = "100%">|
+|:---------:|:---------:|:---------:|:---------:|
+|메인 화면|긴급 도움 요청 화면|주변 의료기관 확인 화면|고령자 등록 화면|
 ## super
 ||
 |:---------:|
 |관리자 화면|
 ## master
-||
+
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/e3fef56e-7d20-457b-afb1-0f8740e81618" width = "100%">|
 |:---------:|
-|병원마스터 화면|
+|의료진 승인 화면(병원관계자)|
 ## doctor
-||
+
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/9bfac341-5049-4b52-a1e6-3cda7d01b342" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/d8b7fb1a-b356-490e-b667-ef3664f26a7d" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/eb1efe88-48af-44e2-990e-2cee96623f0f" width = "100%">|
+|:---------:|:---------:|:---------:|
+|전체 고령자 관리 화면(의료진)|집중 관리 대상에 추가(의료진)|집중 관리 대상 화면|
+
+## helper
+
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/055446c3-7326-4b96-893b-0eb08a332369" width = "100%">|
 |:---------:|
-|의사 화면|
+|보호자자가 관리하는 고령자 목록 화면|
