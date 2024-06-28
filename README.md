@@ -30,7 +30,7 @@
 
 |<img src = "https://github.com/slo-saeng/.github/assets/138277645/10802873-504c-4303-88b9-4216fa2d38bb" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/c6234999-71e2-4905-b67a-fe2bc57d902b" width = "100%">|
 |:---------:|:---------:|
-|회원가입 화면|회원가입 화면 상|
+|회원가입 화면|회원가입 화면 상세|
 
 ## main
 
