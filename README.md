@@ -18,37 +18,12 @@
 # Skills
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <br/> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> <img src="https://img.shields.io/badge/tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black">
 # Members
-|<img src="https://avatars.githubusercontent.com/u/103233513?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/128335727?v=4" width="128" />|<img src="https://avatars.githubusercontent.com/u/138277645?v=4" width="128" />| 
-|:---------:|:---------:|:---------:|
-|[이한음](https://github.com/LeeHanEum)|[김정은](https://github.com/younghak9905)|[최수인](https://github.com/sooinice)|
-| `PL` `Back-end` | `Front-end` | `Front-end` |  
-
-# Preview
-[FIGMA 기획 보기](https://www.figma.com/design/u3EUyaeCYhljXo5sQ35BQW/2024-%ED%95%9C%EA%B5%AD%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%A0%95%EB%B3%B4%EA%B5%90%EC%9C%A1%EC%9B%90-SW-%EA%B0%9C%EB%B0%9C?node-id=108-3&t=dQb7qfVGx4x01ann-0)
-## Login
-
-|<img src = "https://github.com/slo-saeng/.github/assets/138277645/dba95690-0f07-44f8-9e67-7b0c7c7eb633" width = "100%">| 
-|:---------:|
-|로그인 화면|
-## sign-up
-
-|<img src = "https://github.com/slo-saeng/.github/assets/138277645/bc7fb07a-97c9-4a92-953e-e2d4682cf019" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/e40e7232-289e-4cc7-900a-42805db1f622" width = "100%">|
-|:---------:|:---------:|
-|회원가입 화면|회원가입 화면 상세|
-## main
-
-|<img src = "https://github.com/slo-saeng/.github/assets/138277645/6b7933d8-717b-4fe3-972b-f5ab79913474" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/dc91237a-6795-463e-9f22-3cf629ba8f0b" width = "100%"> |<img src = "https://github.com/slo-saeng/.github/assets/138277645/79d96924-ab10-425f-b612-527d447b5b16" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/71b87dfa-1d80-4c8c-9b5c-f9a88b981c3a" width = "100%">|
-|:---------:|:---------:|:---------:|:---------:|
-|메인 화면|긴급 도움 요청 화면|주변 의료기관 확인 화면|고령자 등록 화면|
-## super
-||
-|:---------:|
-|관리자 화면|
+|<img src="https://avatars.githubusercontent.com/u/103233513?v=4" width="128" />|<img src="htt면|
 ## master
 
-|<img src = "https://github.com/slo-saeng/.github/assets/138277645/e3fef56e-7d20-457b-afb1-0f8740e81618" width = "100%">|
-|:---------:|
-|의료진 승인 화면(병원관계자)|
+|<img src = "https://github.com/slo-saeng/.github/assets/138277645/41e0a4ef-fce4-4a95-9581-b3b80d3c2e46" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/e3fef56e-7d20-457b-afb1-0f8740e81618" width = "100%">|
+|:---------:|:---------:|
+|마스터 계정 메인 화|의료진 승인 화면(병원관계자)|
 ## doctor
 
 |<img src = "https://github.com/slo-saeng/.github/assets/138277645/9bfac341-5049-4b52-a1e6-3cda7d01b342" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/d8b7fb1a-b356-490e-b667-ef3664f26a7d" width = "100%">|<img src = "https://github.com/slo-saeng/.github/assets/138277645/eb1efe88-48af-44e2-990e-2cee96623f0f" width = "100%">|
